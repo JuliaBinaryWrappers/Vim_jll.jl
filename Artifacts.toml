@@ -1,0 +1,160 @@
+[[Vim]]
+arch = "i686"
+git-tree-sha1 = "0ce80e27e7b5063cda11b088c9a07daaf06fba2d"
+os = "windows"
+
+    [[Vim.download]]
+    sha256 = "c8bd0f89ab06e5ba3056c0cb846b96d92acfbf6b26ebfa7b4f6a5ca17a704c11"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.i686-w64-mingw32.tar.gz"
+[[Vim]]
+arch = "x86_64"
+git-tree-sha1 = "ee137ae1e6ad5858d5665cea977adb162574e8e1"
+os = "windows"
+
+    [[Vim.download]]
+    sha256 = "82e158638579b72fce811fe40f83c0c3caa0d21d6e4164138323f568c32d8c5b"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.x86_64-w64-mingw32.tar.gz"
+[[Vim]]
+arch = "aarch64"
+git-tree-sha1 = "ae384cef5fc9ed70ef29a5d0a87b6088beb1448f"
+os = "macos"
+
+    [[Vim.download]]
+    sha256 = "b3e2bb42c166c33f47eacc9844266d78ca873181d0b6c05e078d4d082a63f283"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.aarch64-apple-darwin.tar.gz"
+[[Vim]]
+arch = "aarch64"
+git-tree-sha1 = "5105eaaa805b13c612166de9d123de7c2c2f6549"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "627d10294073628b25a4218dfd3c4a88ebe6be3ecb3d02879580ea75f7f3187d"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.aarch64-linux-gnu.tar.gz"
+[[Vim]]
+arch = "aarch64"
+git-tree-sha1 = "3290740f8fd591056aeb80a1fa9cffd6513428ca"
+libc = "musl"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "4d14dc762dc9ba95251da313c18970c2e95fee7ddab39b86093827e3af061fe5"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.aarch64-linux-musl.tar.gz"
+[[Vim]]
+arch = "aarch64"
+git-tree-sha1 = "b5e523ee6a9abb57f72b8f9f30c2393f8ca4d9eb"
+os = "freebsd"
+
+    [[Vim.download]]
+    sha256 = "4d08abfc40d6b91a06ff445c0a2e6442486f021b67addb02e7d6f3131b6c24dc"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.aarch64-unknown-freebsd.tar.gz"
+[[Vim]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c631e4dd40e2d227b549c3ddd317dc772c8985d0"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "dcfefdd43f08a5630e83068af81cc90a445f9d635d08d0ffeb23ae3fc14ff020"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[Vim]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "84cbcb43914ff898b73ab7db3d9c4a58c907e0ab"
+libc = "musl"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "9642763bb35f22587ee653b54d250ae07765efc8991456d2c11291a13dc47e40"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.armv6l-linux-musleabihf.tar.gz"
+[[Vim]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b6a2acfdf9d079b0a46855ab7e1a6db92f252f6c"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "b852cadfb38eeb4b1a9cc6a6ed9ca47ed2dba885178dea31e7aa001893266cd0"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[Vim]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f444887a9a59963d921a87f4686b945be4f48a17"
+libc = "musl"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "8d5d7c27b8c28e009e57179dd8e9b71a3e7e530c9eb1d012306163f5faecc757"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.armv7l-linux-musleabihf.tar.gz"
+[[Vim]]
+arch = "i686"
+git-tree-sha1 = "ed6c2071e2776d1eae974ee9b9735df761c33b80"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "9c65e2d05b3a35b1b9e53723528586c831bc5a5e85d81c9bebf93cfabce96210"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.i686-linux-gnu.tar.gz"
+[[Vim]]
+arch = "i686"
+git-tree-sha1 = "5de128e4cec930351b497c3566ed9d069c808605"
+libc = "musl"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "ff59737e0add2e4d472ba9d5d660d1e4ae301d86905645f4de1a56724dfd3bd3"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.i686-linux-musl.tar.gz"
+[[Vim]]
+arch = "powerpc64le"
+git-tree-sha1 = "929bded48e763d5ecffadf71beaf77c643b5c775"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "89d667a68e47b289d16d77994302f2ed545ce7a5127c2ceb6dfdafe58ec247dd"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.powerpc64le-linux-gnu.tar.gz"
+[[Vim]]
+arch = "riscv64"
+git-tree-sha1 = "333b20115f578e34b79cf78075a385a0e250174c"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "3103475a15414a9fb10b2319b3d590f561225da482cabc2bac8e16be858c5436"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.riscv64-linux-gnu.tar.gz"
+[[Vim]]
+arch = "x86_64"
+git-tree-sha1 = "5b3a7b9e11f31a0010ceff77e71dacb111504a59"
+os = "macos"
+
+    [[Vim.download]]
+    sha256 = "aa2f141b9b7d380ff5f68f99e1e436bd0603e1d14b8e6d2e1dc582f99007e07a"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.x86_64-apple-darwin.tar.gz"
+[[Vim]]
+arch = "x86_64"
+git-tree-sha1 = "ca59b42cb77b8356ec507f5b0babdd2d6c6de82f"
+libc = "glibc"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "cc20dfc7d044cbcb079ceef9bb4bf0e9921260f7cd117963caa6988adf16fd8a"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.x86_64-linux-gnu.tar.gz"
+[[Vim]]
+arch = "x86_64"
+git-tree-sha1 = "d06d4711e3076e9b4a72d33d8290f17fe200c7d1"
+libc = "musl"
+os = "linux"
+
+    [[Vim.download]]
+    sha256 = "7b5606ccb54194e4de2eb13aecb8db553ade83d136f1a6681921e6d49af4b3f5"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.x86_64-linux-musl.tar.gz"
+[[Vim]]
+arch = "x86_64"
+git-tree-sha1 = "fb342d01c442fdde734b90a6a2dae76fc8d24188"
+os = "freebsd"
+
+    [[Vim.download]]
+    sha256 = "6287fa2b478af09e114caacbee59f10a805fa5084ef1e8a79b91efc4836ab5ce"
+    url = "https://github.com/JuliaBinaryWrappers/Vim_jll.jl/releases/download/Vim-v9.1.0+0/Vim.v9.1.0.x86_64-unknown-freebsd.tar.gz"
